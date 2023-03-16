@@ -1,0 +1,213 @@
+#,City,Country,Continent,System,Opening,Network length (km),Stations,Stations,Lines,Avg. station distance (m),Avg. line length,Stations per line,Daily ridership,Ridership per km,Annual ridership,Ridership year,Population,Usage,Length per resident,Fare (EUR),Tracks,Train width,Gauge,Power supply,Voltage,Rubber-tyred,Driverless,Driverless since,Platform screen doors,Aircon trains,Walk-through,Remarks
+1,Shanghai,China,Asia,Metro,10 Apr 1995,632.1 km,394,284,15,"1,668 m",42.1,26.3,6.24 million,"9,860","2,276 million",2012,15 million,20.8 %,42.2 mm,0.34 EUR,right,3,1435,overhead wire,1500,,,,newer line 4 stations and refitted line 1 stations,yes,,Maglev and Line 22 not included. Stations* wrong
+2,Beijing,China,Asia,Subway,1 Oct 1969,572.0 km,344,287,20,"1,765 m",28.6,17.2,6.74 million,"11,800","2,460 million",2012,11.1 million,30.3 %,51.5 mm,0.15 EUR,right,2.65,1435,third rail,825,,Yanfang line,2017,"PGDs on lines 5, 13. PSDs on lines 8, 10",yes,all lines,
+3,London,United Kingdom,Europe,Underground,10 Jan 1863,402.0 km,270,270,11,"1,552 m",36.5,24.5,3.21 million,"7,980","1,171 million",2011,8.57 million,18.7 %,46.9 mm,2.75 EUR,left,"2.84, 2.64 (tube)",1435,third rail,"600, 750 (DLR)",,Docklands Light Rail,1987,Jubilee Line extension,"Circle, District, Hammersmith & City and Metropolitan lines","Metropolitan Line, DLR","DLR not included (31.4 km, 39 stations). East London Line removed (will be assigned to Overground). Overground: 86 km, 55 st."
+4,Guangzhou,China,Asia,Metro,28 Jun 1999,386.0 km,229,205,13,"1,787 m",29.7,17.6,5 million,"13,000","1,825 million",2012,8.83 million,28.3 %,43.7 mm,,right,,1435,third rail,825,Zhujiang people mover,APM line (underground people mover),2010,yes,yes,yes,"APM included (3,9 km +9 stations)"
+5,New York,USA,America,Subway,27 Oct 1904,380.2 km,473,426,27,852 m,14.1,17.5,4.53 million,"11,900","1,655 million",2012,19 million,11.9 %,20.0 mm,1.53 EUR,right,"2.98, 3.05, 2.68; 2.86 (PATH)",1435,third rail,"625, 650 (PATH)",,,,,yes,,"PATH not included (22.2 km, 13 stations). SIR not included"
+6,Moscow,Russia,Europe,Metro,15 May 1935,346.2 km,206,163,12,"1,785 m",28.9,17.2,6.55 million,"18,900","2,389 million",2011,10.5 million,31.3 %,33.1 mm,0.50 EUR,right,"2.70, 2.86",1520,third rail,825,,,,,"lines 3, 5 since 2009",,"Monorail (6 stations, 4.7 km) not included."
+7,Seoul,South Korea,Asia,Subway,15 Aug 1974,326.5 km,302,260,9,"1,114 m",36.3,33.6,6.9 million,"21,100","2,518 million",2012,9.8 million,35.2 %,33.3 mm,0.54 EUR,right,3.16,1435,overhead wire,1500,,,,"lines 2 and 9, planned for all lines",yes,yes,Only metro section.
+8,Tokyo,Japan,Asia,Metro,30 Dec 1927,304.5 km,290,205,13,"1,099 m",23.4,22.3,8.5 million,"27,900","3,102 million",2011,35.7 million,11.9 %,8.5 mm,1.57 EUR,left,"2.87, 2.80; 2.60 (Ginza)","1067, 1435 (Ginza, Marunouchi, Asakusa, Oedo lines), 1372 (Shinjuku line)","overhead wire, third rail (Ginza, Marunouchi lines)","1500, 600 (Ginza, Marunouchi lines)",Yurikamome line,"Yurikamome Waterfront line, rubber-tyred",1995,"Marunouchi, Mita, Namboku, Yurakucho, Yurikamome lines",yes,yes,"According to Mr. Osamu Abe. Saitama, Yurikamone, Monorail, Yamanote, Chuo, Rinkai not incl."
+9,Madrid,Spain,Europe,Metro,17 Oct 1919,293.0 km,289,239,13,"1,062 m",22.5,22.2,1.74 million,"5,940",635 million,2011,5.57 million,15.6 %,52.6 mm,1.00 EUR,left,"2.80 (lines 6-9), 2.30 (lines 2-4)",1445,overhead wire,600,,,,,yes,yes,"ML1, ML2, ML3 not included (27.8 km, 37 st.; Embajadores=Acacias)"
+10,Shenzhen,China,Asia,Metro,28 Dec 2004,285.9 km,198,166,8,"1,505 m",35.7,24.8,"362,000","1,260",132 million,2009,7.58 million,2.4 %,37.7 mm,,right,3.09,1435,,,,,,yes,yes,yes,
+11,Chongqing,China,Asia,Monorail,18 Jun 2005,263.6 km,154,140,6,"1,781 m",43.9,25.7,,,,,6.46 million,,40.8 mm,,right,,,,,,,,"PSDs in underground stations of metro and monorail lines, platform gate doors in elevated stations",yes,yes,
+12,Wuhan,China,Asia,Metro,28 Sep 2004,239.7 km,167,149,7,"1,498 m",34.2,23.9,"200,000",834,73 million,2011,7.24 million,1.4 %,33.1 mm,,right,,,,,,,,,,,
+13,Delhi,India,Asia,Metro,24 Dec 2002,239.0 km,183,172,8,"1,366 m",29.9,22.9,1.66 million,"6,950",606 million,2011,15.9 million,5.2 %,15.0 mm,0.12 EUR,left,3.2,"1676, 1435 (Green, Violet lines)",overhead wire,25000,,,,"Line 4, Line 5, Airport Metro Express",yes,yes,Gurgaon metro included
+14,Paris,France,Europe,Metro,19 Jul 1900,219.9 km,383,303,16,599 m,13.7,23.9,4.18 million,"19,000","1,524 million",2011,9.9 million,21.1 %,22.2 mm,1.57 EUR,"right (metro), left (RER)",2.46,1435,third rail,750,"lines 1, 4, 6, 11, 14","lines 1, 14, rubber-tyred",1998,"lines 1, 13 (part), 14","lines 1, 2, 5, 9","lines 1, 2, 5, 7bis, 9, 14",
+15,Tehran,Iran,Asia,Metro,21 Feb 2000,215.1 km,117,106,7,"1,955 m",30.7,16.7,1.32 million,"6,110",480 million,2011,7.87 million,8.4 %,27.3 mm,,,,1435,third rail,750,,,,,yes,,
+16,Mexico City,Mexico,America,Metro,5 Sep 1969,201.1 km,195,163,12,"1,099 m",16.8,16.3,4.41 million,"21,900","1,609 million",2012,19 million,11.6 %,10.6 mm,0.14 EUR,right,2.5,1995,third rail,750,yes,,,,,,Not sure about length
+17,Singapore,Singapore,Asia,MRT,7 Nov 1987,199.2 km,141,119,5,"1,465 m",39.8,28.2,2.18 million,"10,900",794 million,2011,4.44 million,24.5 %,44.9 mm,0.97 EUR,left,3.2,1435,third rail,750,LRT lines,"North-East Line, Circle Line, Downtown Line, and the 3 rubber-tyred LRT lines",2003,yes,yes,yes,
+18,Hong Kong,Hong Kong S.A.R.,Asia,MTR,1 Oct 1979,197.4 km,113,92,11,"1,935 m",17.9,10.3,3.96 million,"20,000","1,444 million",2012,7.21 million,27.4 %,27.4 mm,0.91 EUR,left,3.1,1435,overhead wire,"1500 (MTR), 25000 (KCR)","SI, WI lines, planned",Disneyland Resort Line,2005,all underground stations,yes,yes,
+19,Mumbai,India,Asia,Suburban Railway,2014,191.5 km,91,73,6,"2,253 m",31.9,15.2,,,,,19 million,,10.1 mm,0.17 EUR,,,,,,,,,,,,
+20,Washington,USA,America,Metrorail,27 Mar 1976,189.9 km,95,91,6,"2,134 m",31.6,15.8,"597,000","3,150",218 million,2012,,,,,right,3.05,1435,third rail,750,,,,,yes,,
+21,Chengdu,China,Asia,Metro,27 Sep 2010,179.1 km,138,122,6,"1,357 m",29.9,23,"282,000","1,580",103 million,2012,4.12 million,3.4 %,43.5 mm,,right,,,,,,,,yes,yes,,http://railway-technology.com/projects/chengdu-metro
+22,Nanjing,China,Asia,Metro,27 Aug 2005,177.2 km,114,105,5,"1,626 m",35.4,22.8,"942,000","5,320",344 million,2011,3.68 million,12.8 %,48.2 mm,,right,,,,,,,,Line 2,yes,yes,S Lines not included (169 km and 50 stations more)
+23,San Francisco,USA,America,BART,11 Sep 1972,174.6 km,45,45,5,"4,365 m",34.9,9,"304,000","1,740",111 million,2012,3.45 million,4.4 %,50.6 mm,,right,3.2,1676,third rail,1000,,,,,yes,Wide sliding doors between cars since the 1970s,MUNI not included (8 underground stations)
+24,Chicago,USA,America,"""L""",6 Jun 1892,166.0 km,153,145,8,"1,145 m",20.8,19.1,"608,000","3,660",222 million,2011,8.99 million,3.4 %,18.5 mm,1.58 EUR,right,2.86,1435,third rail,600,,,,,yes,,151 Stations and 173 km (UrbanRail.net)
+25,Tianjin,China,Asia,Metro,28 Mar 2004,162.8 km,112,104,5,"1,522 m",32.6,22.4,"175,000","1,080",64 million,2010,7.18 million,1.2 %,22.7 mm,,right,2.65,1435,third rail,825,,,,platform gate doors,yes,,
+26,Kuala Lumpur,Malaysia,Asia,"MRT, LRT, Monorail",16 Dec 1996,151.1 km,115,108,5,"1,374 m",30.2,23,"299,000","1,980",109 million,2008,1.45 million,10.3 %,104.2 mm,0.37 EUR,left,3,,,,,LRT,1996,"KLIA line to airport, Kelana Jaya line's underground stations",yes,,Commuter Lines not included
+27,Dalian,China,Asia,Metro,1 May 2003,150.4 km,68,66,4,"2,350 m",37.6,17,"121,000",801,44 million,2012,3.17 million,1.9 %,47.5 mm,,right,,,,,,,,,,,Metro and suburban service
+28,Berlin,Germany,Europe,U-Bahn,18 Feb 1902,147.4 km,195,173,10,797 m,14.7,19.5,1.38 million,"9,390",505 million,2011,3.41 million,20.3 %,43.2 mm,2.10 EUR,right,"2.65 (lines 5-9), 2,30 (lines 1-4)",1435,third rail,750,,,,,,yes,
+29,Busan,South Korea,Asia,Subway,19 Jul 1985,140.1 km,135,128,5,"1,078 m",28,27,"877,000","6,260",320 million,2012,3.48 million,12.6 %,40.3 mm,,right,2.78,,,,Line 4,Line 4,2011,line 3,,,
+30,Barcelona,Spain,Europe,Metro,30 Dec 1924,139.4 km,178,147,11,835 m,12.7,16.2,1.07 million,"7,650",389 million,2011,4.92 million,10.8 %,28.3 mm,1.35 EUR,right,"2.72 (lines 3, 4, FGC), 3.14 (line 1)",1435,"third rail (TMB), overhead wire (FGC)",1200,,"lines L9, L10, L11",2009,"lines L9, L10, L11",yes,yes,"Tram lines not included (1.8 km subway tram line, T5)"
+31,Osaka,Japan,Asia,Subway,20 May 1933,137.8 km,133,104,9,"1,111 m",15.3,14.8,2.29 million,"16,600",836 million,2010,11.3 million,10.1 %,12.2 mm,,left,2.89,1435,third rail,"750, 600 (Nanko Port Town Line)",Nanko Port Town Line,"Nanko Port Town Line, rubber-tyred",1981,all stations on the Nanko Port Town Line,,yes,"Monorail not included (23.8 km, 18 st). OTS + new tram included"
+32,Taipei,Taiwan,Asia,MRT,28 Mar 1996,131.3 km,117,108,5,"1,172 m",26.3,23.4,1.79 million,"13,600",652 million,2012,2.6 million,34.4 %,50.5 mm,0.60 EUR,right,2.56,2060,third rail,750,Line 1,Wenshan (Muzha) VAL line,1996,"PGDs in the busier MRT stations, PSDs in all VAL stations",yes,yes,131.3km website
+33,Suzhou,China,Asia,Subway,29 Apr 2012,118.9 km,96,92,3,"1,278 m",39.6,32,,,,,,,,,right,,,,,,,,,yes,,
+34,Hangzhou,China,Asia,Metro,24 Nov 2012,118.0 km,83,78,3,"1,475 m",39.3,27.7,,,,,3.01 million,,39.2 mm,,,,,,,,,,,,,Wikipedia
+35,Santiago,Chile,America,Metro,15 Sep 1975,117.7 km,118,106,6,"1,051 m",19.6,19.7,1.75 million,"14,900",640 million,2011,5.72 million,15.3 %,20.6 mm,0.55 EUR,right,,1435,third rail,750,yes,Line 6,2017,,,yes,
+36,Saint Petersburg,Russia,Europe,Metro,15 Nov 1955,113.5 km,67,59,5,"1,831 m",22.7,13.4,2.15 million,"19,000",786 million,2011,4.55 million,23.7 %,24.9 mm,,right,2.7,1520,third rail,825,,,,windowless steel doors in ten stations,,,According to Mr. Yuri Popov
+37,Bangkok,Thailand,Asia,"Skytrain, MRT",5 Dec 1999,112.4 km,79,73,5,"1,518 m",22.5,15.8,"671,000","5,970",245 million,2011,6.7 million,5.0 %,16.8 mm,0.64 EUR,left,,1435,linear,,,Green line,1999,"Green line, Blue line",yes,,
+38,Istanbul,Turkey,Europe,Metro,16 Sep 2000,105.9 km,82,79,6,"1,393 m",17.7,13.7,"214,000","2,020",78 million,2011,10.1 million,1.1 %,10.5 mm,0.63 EUR,right,2.65,1435,"overhead wire, third rail (Line M2)",750,,Line M5,2017,Line M5 and Seyrantepe station on line M2,some lines,some lines,"Wikipedia. Hafif Metro not included (25.8 km, 24 stations, 2 lines)"
+39,Stockholm,Sweden,Europe,Tunnelbana,1 Oct 1950,105.7 km,104,100,3,"1,047 m",35.2,34.7,"847,000","8,010",309 million,2011,1.26 million,33.6 %,83.9 mm,3.73 EUR,left,2.8,1435,third rail,"650, 750 (Blue Line)",,,,,,,According to official website. 7 operational lines
+40,Hamburg,Germany,Europe,U-Bahn,1 Mar 1912,104.7 km,99,91,4,"1,102 m",26.2,24.8,"545,000","5,210",199 million,2011,1.76 million,15.5 %,59.5 mm,,right,"2.58, 2.48",1435,third rail,750,,,,,DT5 type train sets,DT5 type train sets,According to official website
+41,Zhengzhou,China,Asia,Metro,26 Dec 2013,104.0 km,61,59,3,"1,793 m",34.7,20.3,,,,,,,,,,,,,,,,,,,,
+42,Milan,Italy,Europe,Metropolitana,1 Nov 1964,96.9 km,113,105,4,889 m,24.2,28.3,"899,000","9,270",328 million,2007,2.94 million,15.3 %,33.0 mm,1.00 EUR,right,2.85,1435,"overhead wire, third rail (line M1)","1500, 750 (line M1)",,line M5,2013,line M5,yes,yes,
+43,Munich,Germany,Europe,U-Bahn,19 Oct 1971,94.2 km,102,96,6,981 m,15.7,17,"986,000","10,500",360 million,2010,1.28 million,38.5 %,73.6 mm,2.30 EUR,right,2.9,1435,third rail,750,,,,,,yes,
+44,Nagoya,Japan,Asia,Subway,15 Nov 1957,93.1 km,97,86,4,"1,001 m",23.3,24.3,1.17 million,"12,600",427 million,2008,3.23 million,18.1 %,28.8 mm,,left,"2.51, 2.81","1435, 1067 (Tsurumai, Sakura-dori lines)","third rail, overhead wire (Tsurumai, Sakura-dori lines)","600, 1500 (Tsurumai, Sakura-dori lines)",,Linimo maglev line,2005,Tobu Kyuryo maglev line,yes,yes,3 stations +
+45,Kunming,China,Asia,Metro,28 Jun 2012,91.9 km,57,55,4,"1,734 m",23,14.3,,,,,,,,,,,,,,,,,,,yes,
+46,Xian,China,Asia,Metro,16 Sep 2011,90.8 km,66,64,3,"1,441 m",30.3,22,"162,000","1,780",59 million,2012,,,,,,,1435,,,,,,,,yes,
+47,Oslo,Norway,Europe,T-Bane,22 May 1966,85.0 km,101,101,5,885 m,17,20.2,"208,000","2,450",76 million,2010,"840,000",12.4 %,101.2 mm,2.67 EUR,right,3.2,1435,third rail,750,,,,,,yes,Line 1 included. According to wikipedia.
+48,Daegu,South Korea,Asia,Subway,26 Nov 1997,83.8 km,91,88,3,952 m,27.9,30.3,"348,000","4,150",127 million,2012,2.46 million,7.1 %,34.1 mm,,,,,,,,,,"lines 1, 2",,,
+49,Vienna,Austria,Europe,U-Bahn,25 Feb 1978,83.3 km,109,98,5,801 m,16.7,21.8,1.46 million,"17,600",534 million,2010,2.32 million,31.5 %,35.9 mm,1.70 EUR,right,2.8,1435,third rail,750,,,,,yes,yes,Premetro tunnel not included
+50,Vancouver,Canada,America,SkyTrain,3 Jan 1986,80.5 km,53,57,3,"1,610 m",26.8,17.7,"329,000","4,080",120 million,2011,2.15 million,7.6 %,37.4 mm,,right,2.4,1435,third rail,600,,"Skytrain, LIM technology, currently the world's longest automated system",1986,,yes,yes,
+51,Rotterdam,Netherlands,Europe,Metro,10 Feb 1968,79.3 km,62,62,5,"1,391 m",15.9,12.4,"238,000","3,010",87 million,2008,"1,000,000",11.9 %,79.3 mm,,right,"2.68, 2.73",1435,third rail,750,,,,,,,
+52,Atlanta,USA,America,MARTA,30 Jun 1979,79.2 km,39,38,2,"2,141 m",39.6,19.5,"93,200","1,180",34 million,2007,4.51 million,1.0 %,17.6 mm,,right,3.2,1435,third rail,750,,,,,yes,,
+53,Sao Paulo,Brazil,America,Metro,14 Sep 1974,78.4 km,71,64,6,"1,206 m",13.1,11.8,2.4 million,"30,600",877 million,2012,18.8 million,6.4 %,4.2 mm,0.76 EUR,right,3.17,1600,"third rail (lines 1-3), overhead wire (lines 4, 5)","750 (lines 1-3), 1500 (lines 4, 5)",,line 4,2010,"lines 2, 3, 4",all metro lines and regional rail,"lines 4, 5",C Line: 26 km + 16 st. E Line: 22km + 7 st).Monorail included
+54,Cairo,Egypt,Africa,Metro,27 Sep 1987,77.9 km,64,61,3,"1,277 m",26,21.3,2.29 million,"29,400",837 million,2010,11.9 million,9.6 %,6.6 mm,0.14 EUR,left,2.88,1435,overhead wire,1500,,,,,5 stations,,
+55,Newcastle,United Kingdom,Europe,Tyne & Wear Metro,7 Aug 1980,76.5 km,61,50,2,"1,297 m",38.3,30.5,"104,000","1,360",38 million,2011,,,,,left,2.7,1435,overhead wire,1500,,,,,,,
+56,Ningbo,China,Asia,Metro,30 May 2014,74.5 km,51,50,2,"1,520 m",37.3,25.5,,,,,,,,,,,,,,,,,Line 1,,,
+57,Saint Louis,USA,America,Metrolink,31 Jul 1993,73.4 km,37,37,2,"2,097 m",36.7,18.5,,,,,,,,,right,,,,,,,,,,,
+58,Bucharest,Romania,Europe,Metro,16 Nov 1979,71.4 km,53,47,4,"1,457 m",17.9,13.3,"468,000","6,560",171 million,2011,1.94 million,12.1 %,36.8 mm,0.40 EUR,right,3.1,1435,third rail,825,,,,,,,
+59,Toronto,Canada,America,Subway,30 Apr 1954,70.9 km,80,75,4,933 m,17.7,20,"762,000","10,700",278 million,2006,5.21 million,7.3 %,13.6 mm,1.67 EUR,right,3.1,1480,third rail,600,,,,,yes,,
+60,Dubai,United Arab Emirates,Asia,Metro,9 Sep 2009,69.7 km,47,45,2,"1,549 m",34.8,23.5,"299,000","4,280",109 million,2012,1.38 million,10.8 %,50.5 mm,0.56 EUR,right,3.2,1435,third rail,750,,metro,2009,"metro, monorail",yes,yes,
+61,Montreal,Canada,America,Metro,14 Oct 1966,69.2 km,73,68,4,"1,003 m",17.3,18.3,"600,000","8,670",219 million,2006,3.68 million,8.2 %,18.8 mm,1.67 EUR,right,2.51,1994,third rail,750,yes,,,,,,
+62,Boston,USA,America,The T,1 Sep 1897,67.7 km,67,61,4,"1,075 m",16.9,16.8,"403,000","5,950",147 million,2010,4.47 million,4.5 %,15.1 mm,,right,,1435,"third rail, overhead wire (Green Line)",600,,,,,yes,,Red tram not included. Green subway section included
+63,Kiev,Ukraine,Europe,Metro,22 Oct 1960,67.6 km,52,49,3,"1,380 m",22.5,17.3,1.42 million,"21,000",519 million,2011,2.71 million,26.2 %,24.9 mm,0.27 EUR,right,2.7,1520,third rail,825,,,,,,,
+64,Caracas,Venezuela,America,Metro,27 Mar 1983,66.5 km,54,54,6,"1,386 m",11.1,9,1.33 million,"20,000",485 million,2009,2.98 million,22.3 %,22.3 mm,0.31 EUR,,3.05,1435,third rail,750,,,,,yes,,Metro Los Teques included (11.2km)
+65,Ankara,Turkey,Asia,Metro,30 Aug 1996,65.7 km,56,52,5,"1,288 m",13.1,11.2,"310,000","4,710",113 million,2007,3.72 million,4.2 %,17.7 mm,,right,3.2,1435,third rail,750,,metro line,1997,,yes,yes,
+66,Prague,Czech Republic,Europe,Metro,9 May 1974,65.1 km,61,58,3,"1,122 m",21.7,20.3,1.45 million,"22,300",530 million,2011,1.16 million,62.6 %,56.1 mm,0.65 EUR,right,2.7,1435,third rail,750,,,,,,yes,
+67,Philadelphia,USA,America,Subway,4 Mar 1907,62.0 km,66,62,3,984 m,20.7,22,"293,000","4,730",107 million,2011,5.49 million,2.7 %,11.3 mm,,right,3.05,"1435, 1588 (Market-Frankford Line)",third rail,"600, 685 (PATCO)",,,,,yes,,PATCO line included. Subway trolley not (10 stations)
+68,Rome,Italy,Europe,Metropolitana,10 Feb 1955,61.0 km,74,73,3,859 m,20.3,24.7,"907,000","14,900",331 million,2008,3.34 million,13.6 %,18.3 mm,1.00 EUR,left,"2.85 (line A), 3.04 (line B)",1435,overhead wire,1500,,,,,yes,yes,
+69,Athens,Greece,Europe,Metro,1954,60.3 km,65,61,3,973 m,20.1,21.7,"937,000","15,500",342 million,2008,3.24 million,14.5 %,18.6 mm,1.00 EUR,right,2.8,1435,third rail,600,,,,,yes,yes,"Airport line not included (21 km and 4 stations more): 81,3 km + 69 st"
+70,Los Angeles,USA,America,Metro Rail,30 Jan 1993,59.3 km,30,30,3,"2,196 m",19.8,10,"126,000","2,130",46 million,2011,12.5 million,0.5 %,4.7 mm,1.91 EUR,right,,1435,"overhead wire, third rail (Red, Purple lines)",750,,,,,yes,,"Red, Purple and Green lines"
+71,Incheon,South Korea,Asia,Subway,6 Oct 1999,58.5 km,56,55,2,"1,083 m",29.3,28,"244,000","4,170",89 million,2012,2.55 million,4.8 %,22.9 mm,,,,,,,,,,yes,,,
+72,Yokohama,Japan,Asia,Subway,16 Dec 1972,57.6 km,48,45,3,"1,280 m",19.2,16,"542,000","9,420",198 million,2008,,,,,left,2.78,1435,third rail,750,Kanazawa Seaside LRT,"Kanazawa Seaside line, LRT, rubber-tyred",1989,Kanazawa Seaside LRT line,,yes,Kanazawa Line not included (10.6 km)
+73,Wuxi,China,Asia,Metro,1 Jul 2014,56.1 km,46,45,2,"1,275 m",28,23,,,,,,,,,,,,,,,,,,,,
+74,Rio de Janeiro,Brazil,America,Metro,5 Mar 1979,55.5 km,42,41,3,"1,423 m",18.5,14,"581,000","10,500",212 million,2010,11.8 million,2.5 %,4.7 mm,0.77 EUR,right,3.17,1600,third rail,750,,,,,yes,,
+75,Shenyang,China,Asia,Metro,27 Sep 2010,54.8 km,45,44,2,"1,274 m",27.4,22.5,,,,,4.79 million,,11.4 mm,,right,,,,,,,,yes,,,
+76,Buenos Aires,Argentina,America,Subte,1 Dec 1913,53.9 km,86,73,6,674 m,9,14.3,"844,000","15,700",308 million,2011,12.8 million,3.3 %,4.2 mm,0.24 EUR,left,"3.20, 2.60",1435,"overhead wire, third rail (Line B)","1500, 1100 (Line B)",,,,,,yes,Premetro line not included
+77,Nanning,China,Asia,Metro,28 Jun 2016,53.1 km,43,41,2,"1,295 m",26.5,21.5,,,,,,,,,,,,,,,,,,,,
+78,Hefei,China,Asia,Metro,26 Dec 2016,52.4 km,47,46,2,"1,164 m",26.2,23.5,,,,,,,,,,,,,,,,,,,yes,
+79,Manila,Philippines,Asia,MRT,1 Dec 1984,51.5 km,44,41,3,"1,256 m",17.2,14.7,"948,000","18,400",346 million,2008,11.1 million,4.3 %,4.6 mm,0.18 EUR,right,,,,,,,,,yes,yes,Length not sure
+80,Bilbao,Spain,Europe,Metro,11 Nov 1995,51.0 km,48,47,3,"1,133 m",17,16,"247,000","4,830",90 million,2011,,,,,left,2.8,1000,overhead wire,1500,,,,,yes,yes,
+81,Changsha,China,Asia,Metro,29 Apr 2014,50.2 km,43,42,2,"1,224 m",25.1,21.5,,,,,,,,,,,,,,,,,,,,
+82,Nanchang,China,Asia,Rail Transit,26 Dec 2015,48.3 km,41,40,2,"1,238 m",24.1,20.5,,,,,,,,,,,,,,,,,,,,
+83,Sapporo,Japan,Asia,Subway,16 Dec 1971,48.0 km,49,46,3,"1,043 m",16,16.3,"573,000","11,900",209 million,2008,2.54 million,11.3 %,18.9 mm,,left,3.08,"2150, 2180 (Namboku Line)","overhead wire, third rail (Namboku Line)","1500, 750 (Namboku Line)",yes,,,,,yes,According to Mr. Osamu Abe
+84,Chennai,India,Asia,MRTS,19 Oct 1997,47.4 km,39,38,3,"1,317 m",15.8,13,,,,,7.16 million,,6.6 mm,,,,,,,,,,,,,Correction according to Urbanrail and Wikipedia
+85,Cologne,Germany,Europe,Stadtbahn,11 Oct 1968,47.4 km,55,55,15,"1,185 m",3.2,3.7,,,,,"1,000,000",,47.4 mm,,right,2.65,1435,overhead wire,750,,,,,new light rail trains only,yes,Approx. 45 km metro-like. 30 km underground.
+86,Qingdao,China,Asia,Metro,16 Dec 2015,46.0 km,40,39,2,"1,211 m",23,20,,,,,2.87 million,,16.0 mm,,,,,,,,,,,,,
+87,Lille,France,Europe,Metro,25 Apr 1983,45.5 km,62,60,2,758 m,22.8,31,"263,000","5,780",96 million,2009,1.04 million,12.6 %,43.8 mm,,right,2.13,2060,third rail,750,yes,VAL,1983,"VAL, all stations",,yes,
+88,Kaohsiung,Taiwan,Asia,MRT,9 Mar 2008,45.0 km,38,37,2,"1,250 m",22.5,19,"142,000","3,170",52 million,2012,1.54 million,4.6 %,29.2 mm,,,3.15,1435,third rail,750,,,,MRT,,,
+89,Lisbon,Portugal,Europe,Metro,29 Dec 1959,44.3 km,56,50,4,852 m,11.1,14,"501,000","11,300",183 million,2010,2.81 million,8.9 %,15.8 mm,0.80 EUR,left,2.7,1435,third rail,750,,,,,,yes,
+90,Valparaiso,Chile,America,Metro,23 Nov 2005,43.0 km,20,20,1,"2,263 m",43,20,,,,,"850,000",,50.6 mm,,right,,,,,,,,,,,
+91,Bangalore,India,Asia,Namma Metro,15 Sep 2011,42.3 km,41,40,2,"1,085 m",21.1,20.5,,,,,6.79 million,,6.2 mm,,,,,,,,,,,,,
+92,Brasilia,Brazil,America,Metro,31 Mar 2001,42.0 km,24,24,1,"1,826 m",42,24,"151,000","3,590",55 million,2009,3.6 million,2.1 %,11.7 mm,,right,,,,,,,,,,,
+93,Miami,USA,America,Metrorail,21 May 1984,39.8 km,23,23,1,"1,809 m",39.8,23,"49,300","1,240",18 million,2011,5.58 million,0.4 %,7.1 mm,1.66 EUR,right,3.18 (metro),1435,third rail,750,Downtown people mover,"downtown people mover, rubber-tyred",1986,,yes,,"Metromover not included (20 stations, 7 km)"
+94,Recife,Brazil,America,Metro,11 Mar 1985,39.7 km,30,28,2,"1,418 m",19.9,15,,,,,3.65 million,,10.9 mm,,right,,,,,,,,,,,According to official website
+95,Dongguan,China,Asia,Metro,27 May 2016,38.8 km,15,15,1,"2,771 m",38.8,15,,,,,,,,,,,,,,,,,,,,
+96,Kharkiv,Ukraine,Europe,Metro,23 Aug 1975,38.5 km,30,27,3,"1,426 m",12.8,10,"685,000","17,800",250 million,2011,,,,,right,2.7,,,,,,,,,,According to Mr. Yuri Popov
+97,Nuremberg,Germany,Europe,U-Bahn,1 Mar 1972,37.5 km,56,48,3,708 m,12.5,18.7,"323,000","8,620",118 million,2011,,,,,right,2.9,1435,third rail,750,,"lines U2, U3, no PSDs, sharing tracks with driver-operated trains",2008,,,yes,
+98,Sofia,Bulgaria,Europe,Metro,28 Jan 1998,37.5 km,35,34,2,"1,136 m",18.8,17.5,"79,500","2,120",29 million,2009,1.18 million,3.4 %,31.8 mm,0.51 EUR,right,2.84,1435,third rail,825,,,,,,,
+99,Minsk,Belarus,Europe,Metro,26 Jun 1984,37.2 km,29,28,2,"1,379 m",18.6,14.5,"770,000","20,700",281 million,2012,1.8 million,21.4 %,20.7 mm,,right,2.7,1520,third rail,825,,,,,,,According to Mr. Yuri Popov
+100,Baku,Azerbaijan,Asia,Metro,6 Nov 1967,36.6 km,25,23,3,"1,662 m",12.2,8.3,"501,000","13,700",183 million,2011,1.89 million,13.3 %,19.3 mm,,right,2.7,1520,third rail,825,,,,,,,
+101,Tashkent,Uzbekistan,Asia,Metro,6 Nov 1977,36.2 km,29,26,3,"1,392 m",12.1,9.7,"178,000","4,920",65 million,2010,2.18 million,4.1 %,16.6 mm,,right,2.7,1520,third rail,825,,,,,,,According to Mr. Yuri Popov
+102,Helsinki,Finland,Europe,Metro,3 Aug 1982,35.1 km,25,25,1,"1,462 m",35.1,25,"170,000","4,840",62 million,2011,1.12 million,7.6 %,31.3 mm,2.10 EUR,right,3.2,1524,third rail,750,,,,,,yes,
+103,Changchun,China,Asia,LRT,Oct 2002,35.0 km,31,30,2,"1,207 m",17.5,15.5,,,,,3.18 million,,11.0 mm,,right,,,,,,,,,,,"(17 km, 16 stations on viaduct = metro). 14.6 km, 17 st on streets"
+104,Naples,Italy,Europe,Metropolitana,28 Mar 1993,34.8 km,33,29,3,"1,160 m",11.6,11,"95,900","2,760",35 million,2011,2.25 million,2.1 %,15.5 mm,,left,,1435,overhead wire,1500,,,,,,,"M3 and M4 not included (M3: 12.3 km, 12 sta. M4: 8.3 km, 8 sta.)"
+105,Lima,Peru,America,Tren Urbano,5 Apr 2012,34.4 km,26,26,1,"1,376 m",34.4,26,,,,,8.01 million,,4.3 mm,0.29 EUR,,,,,,,,,,,,
+106,Porto Alegre,Brazil,America,Metro,2 Mar 1985,33.8 km,17,17,1,"2,112 m",33.8,17,,,,,3.92 million,,8.6 mm,,right,,,,,,,,,,,According to official website
+107,Budapest,Hungary,Europe,Metro,2 May 1896,33.0 km,42,40,3,846 m,11,14,"827,000","25,100",302 million,2011,1.68 million,24.6 %,19.6 mm,0.95 EUR,right,"2.70, 2.22 (line 1)",1435,"third rail, overhead wire (Line M1)","825, 600 (Line M1)",,,,,,,
+108,Amsterdam,Netherlands,Europe,Metro,16 Oct 1977,32.7 km,33,33,4,"1,128 m",8.2,8.3,"233,000","7,120",85 million,2009,1.03 million,11.3 %,31.7 mm,2.09 EUR,right,3,1435,third rail,750,,,,,M5 type train sets,M5 type train sets,"Sneltram not included (9.8 km, 19 stations; 'Metros in Holland')"
+109,Brussels,Belgium,Europe,Metro,20 Sep 1976,32.2 km,61,59,3,555 m,10.7,20.3,"364,000","11,300",133 million,2009,1.74 million,10.5 %,18.5 mm,1.53 EUR,right (left on lines 1 and 6 between Midi and Roi Baudouin),2.7,1435,third rail,900,,,,,,line 1,"Premetro tunnels not included, 11 stations"
+110,Lyon,France,Europe,Metro,28 Apr 1978,31.8 km,44,40,4,795 m,7.9,11,"704,000","22,100",257 million,2009,1.42 million,24.8 %,22.4 mm,1.60 EUR,left,2.9,1435,third rail,750,yes,"line D/Maggaly, rubber-tyred, no PSDs",1991,,,,
+111,Valencia,Spain,Europe,Metro,3 Oct 1988,31.8 km,38,37,3,909 m,10.6,12.7,,,,,"810,000",,39.3 mm,,right,2.55,1000,overhead wire,1500,,,,,yes,yes,Full metro section length unknown.
+112,Bursa,Turkey,Asia,Bursaray,19 Aug 2002,31.5 km,31,31,2,"1,086 m",15.8,15.5,,,,,1.49 million,,21.1 mm,,,,,,,,,,,,,
+113,Mashhad,Iran,Asia,Urban railway,10 Oct 2011,31.5 km,30,30,1,"1,086 m",31.5,30,,,,,2.47 million,,12.8 mm,,,,,,,,,,,,,
+114,Monterrey,Mexico,America,Metro,25 Apr 1991,31.5 km,32,31,2,"1,050 m",15.8,16,"378,000","12,000",138 million,2009,3.71 million,5.1 %,8.5 mm,,right,,,,,yes,,,,,,
+115,Kyoto,Japan,Asia,Subway,1 Apr 1981,31.3 km,32,31,2,"1,043 m",15.6,16,"345,000","11,000",126 million,2008,1.8 million,9.6 %,17.4 mm,,left,2.8,1435,overhead wire,1500,,,,Tozai line,,yes,
+116,Medellin,Colombia,America,Metro,30 Nov 1995,31.3 km,28,27,2,"1,204 m",15.6,14,"466,000","14,900",170 million,2011,3.3 million,7.1 %,9.5 mm,,,3.2,1435,overhead wire,1500,,,,,,,"Metro Cable not included, 4 stations"
+117,Cleveland,USA,America,Rapid Transit,15 Mar 1955,31.0 km,18,18,1,"1,824 m",31,18,"16,400",530,6 million,2011,1.89 million,0.4 %,16.4 mm,,right,3.15,1435,overhead wire,600,,,,,,,2 Light Rail lines not included
+118,Kobe,Japan,Asia,Subway,13 Mar 1977,30.6 km,26,24,2,"1,275 m",15.3,13,"332,000","10,800",121 million,2008,,,,,left,2.79,1435,"overhead wire, third rail (Portliner)","1500, 600 (Portliner)",Port Liner and Rokko Liner,"Port Liner and Rokko Liner, rubber-tyred",1981,Port Liner and Rokko Liner,,yes,"According to Mr. Osamu Abe. Portliner, Rokko lines not included (15 st)"
+119,Shijiazhuang,China,Asia,Metro,14 Jun 2017,30.3 km,27,26,2,"1,212 m",15.1,13.5,,,,,,,,,,,,,,,,,,,,
+120,Xiamen,China,Asia,Metro,31 Dec 2017,30.3 km,24,24,1,"1,317 m",30.3,24,,,,,,,,,,,,,,,,,,,,
+121,Fukuoka,Japan,Asia,Subway,26 Jul 1981,29.8 km,35,34,3,931 m,9.9,11.7,"340,000","11,400",124 million,2007,2.79 million,6.1 %,10.7 mm,,left,2.86,1067,overhead wire,1500,,,,yes,,yes,According to Mr. Osamu Abe
+122,Hyderabad,India,Asia,Metro Rail,28 Nov 2017,29.8 km,25,24,2,"1,296 m",14.9,12.5,,,,,6.38 million,,4.7 mm,,,,,,,,,,,,,Source: Metro Report.
+123,Kolkata,India,Asia,Metro Railway,24 Oct 1984,29.7 km,24,24,1,"1,291 m",29.7,24,"474,000","16,000",173 million,2009,14.8 million,1.6 %,2.0 mm,,right,2.74,,,,,,,,,,"25 km wikipedia, 27.50 km urbanrail ???"
+124,Dortmund,Germany,Europe,Stadtbahn,17 May 1976,29.5 km,37,37,3,866 m,9.8,12.3,,,,,,,,,right,2.65,1435,overhead wire,600,,H-Bahn,1984,,,yes,Rhein-Ruhr Stadtbahn Album 2
+125,Sendai,Japan,Asia,Subway,15 Jul 1987,28.7 km,30,29,2,"1,025 m",14.4,15,"159,000","5,540",58 million,2008,2.25 million,3.5 %,12.8 mm,,left,2.88,1067,overhead wire,1500,,,,,,yes,
+126,Warsaw,Poland,Europe,Metro,7 Apr 1995,28.7 km,28,27,2,"1,104 m",14.4,14,"384,000","13,400",140 million,2011,1.71 million,11.2 %,16.8 mm,0.47 EUR,right,,1435,third rail,825,,,,,,yes,
+127,Belo Horizonte,Brazil,America,Metro,1 Aug 1986,28.1 km,19,19,1,"1,563 m",28.1,19,,,,,5.58 million,,5.0 mm,,right,,,,,,,,,,,According to official website
+128,The Hague,Netherlands,Europe,RandstadRail,16 Oct 2004,27.9 km,30,30,3,"1,033 m",9.3,10,,,,,,,,,right,,,,,,,,,,,Full metro section length unknown (47 km?)
+129,Toulouse,France,Europe,Metro,26 Jun 1993,27.5 km,38,37,2,764 m,13.8,19,"282,000","10,300",103 million,2011,"850,000",16.6 %,32.4 mm,,right,2.08,2060,third rail,750,yes,VAL,1993,VAL,,yes,
+130,Tbilisi,Georgia,Asia,Metro,11 Jan 1966,27.3 km,23,22,2,"1,300 m",13.6,11.5,"241,000","8,830",88 million,2008,1.1 million,11.0 %,24.8 mm,,right,,1520,third rail,825,,,,,,,According to Mr. Yuri Popov
+131,Seattle,USA,America,Light Rail,18 Jul 2009,27.2 km,16,16,1,"1,813 m",27.2,16,,,,,3.07 million,,8.9 mm,,right,3.13 (monorail),,,,,,,,yes,,Downtown tunnel section considered as a full metro
+132,Fuzhou,China,Asia,Metro,18 May 2016,24.8 km,21,21,1,"1,240 m",24.8,21,,,,,,,,,,,,,,,,,,,,
+133,Santo Domingo,Dominican Republic,America,Metro,30 Jan 2009,24.8 km,30,29,2,886 m,12.4,15,"79,500","3,200",29 million,2011,2.15 million,1.8 %,11.5 mm,,,,1435,,,,,,,yes,,
+134,Baltimore,USA,America,Metro Subway,21 Nov 1983,24.5 km,14,14,1,"1,885 m",24.5,14,"49,300","2,010",18 million,2011,2.26 million,1.1 %,10.8 mm,,right,3.05,1435,third rail,700,,,,,yes,,
+135,Shiraz,Iran,Asia,Metro,11 Oct 2014,24.5 km,15,15,1,"1,750 m",24.5,15,,,,,1.24 million,,19.8 mm,,,,,,,,,,,,,
+136,Fortaleza,Brazil,America,Metro,15 Jun 2012,24.1 km,19,19,1,"1,339 m",24.1,19,,,,,3.39 million,,7.1 mm,,,,,,,,,,,yes,,
+137,Guadalajara,Mexico,America,Metro,1 Sep 1989,24.0 km,29,28,2,889 m,12,14.5,,,,,4.2 million,,5.7 mm,,right,,,,,,,,,,,
+138,Stuttgart,Germany,Europe,Stadtbahn,10 Jun 1966,24.0 km,19,17,2,"1,412 m",12,9.5,,,,,,,,,right,2.65,1435,overhead wire,750,,,,,yes,yes,24 km underground. (Schnellbahnen in Deutschland)
+139,Daejeon,South Korea,Asia,Subway,16 Mar 2006,22.6 km,22,22,1,"1,076 m",22.6,22,"104,000","4,610",38 million,2011,,,,,,,,,,,,,yes,,,
+140,Pyongyang,North Korea,Asia,Metro,6 Sep 1973,22.5 km,16,15,2,"1,607 m",11.3,8,"98,600","4,380",36 million,2009,,,,,,2.7,1435,third rail,825,,,,,,,
+141,Sydney,Australia,Oceania,Cityrail,20 Dec 1926,22.1 km,14,14,3,"2,005 m",7.4,4.7,,,,,4.33 million,,5.1 mm,2.92 EUR,left,,,,,,,,,yes,,Only underground stations in downtown
+142,Marseille,France,Europe,Metro,26 Nov 1977,21.8 km,30,28,2,779 m,10.9,15,"205,000","9,430",75 million,2011,1.4 million,7.3 %,15.6 mm,,right,2.6,1435,third rail,750,yes,,,,,,
+143,Oporto,Portugal,Europe,Metro,7 Dec 2002,21.7 km,16,15,2,"1,550 m",10.9,8,,,,,,,,,right,2.65,1435,overhead wire,750,,,,,yes,yes,"16 undeground stations, 9,5 km underground. Total 70km81st Wiki"
+144,Bochum,Germany,Europe,Stadtbahn,26 May 1979,21.5 km,29,27,2,797 m,10.8,14.5,,,,,,,,,right,2.65,1435,overhead wire,660,,,,,,,Rhein-Ruhr Stadtbahn Album 2
+145,Harbin,China,Asia,Subway,26 Sep 2013,21.5 km,22,21,2,"1,075 m",10.8,11,,,,,3.62 million,,5.9 mm,,,,,,,,,,,,,
+146,Copenhagen,Denmark,Europe,Metro,19 Oct 2002,21.0 km,22,22,2,"1,050 m",10.5,11,"148,000","7,050",54 million,2011,1.08 million,6.8 %,19.4 mm,2.81 EUR,right,2.65,1435,third rail,750,,all metro lines,2002,all underground stations,all metro and S-Tog trains,yes,According to official website
+147,Frankfurt,Germany,Europe,U-Bahn,4 Oct 1968,20.5 km,31,27,3,732 m,6.8,10.3,,,,,,,,2.30 EUR,right,2.65,1435,overhead wire,750,,,,,,yes,"20.40 km, 27 stations underground ('Schnellbahnen in Deutschland')"
+148,Edmonton,Canada,America,Light Rail,22 Apr 1978,20.4 km,15,15,1,"1,457 m",20.4,15,,,,,1.06 million,,19.2 mm,,right,,,,,,,,,,,
+149,Salvador,Brazil,America,Metro,11 Jun 2014,20.3 km,15,14,2,"1,562 m",10.1,7.5,,,,,3.48 million,,5.8 mm,,,,1435,,,,,,,yes,,
+150,Essen,Germany,Europe,Stadtbahn,5 Oct 1967,20.2 km,27,27,3,842 m,6.7,9,,,,,,,,,right,2.65,1435,overhead wire,750,,,,,,yes,Rhein-Ruhr Stadtbahn Album 1
+151,Gwangju,South Korea,Asia,Subway,28 Apr 2004,20.1 km,20,20,1,"1,058 m",20.1,20,"49,300","2,450",18 million,2011,1.44 million,1.7 %,14.0 mm,,,,,,,,,,yes,,,
+152,Izmir,Turkey,Asia,Metro,22 May 2000,20.1 km,17,17,1,"1,256 m",20.1,17,"173,000","8,590",63 million,2011,2.59 million,3.3 %,7.8 mm,,,2.65,1435,third rail,750,,,,,,,
+153,Nizhny Novgorod,Russia,Europe,Metro,20 Nov 1985,18.9 km,15,14,2,"1,454 m",9.4,7.5,"74,000","3,910",27 million,2010,,,,,right,2.7,1520,third rail,825,,,,,,,According to Mr. Yuri Popov
+154,Hanover,Germany,Europe,Stadtbahn,28 Sep 1975,18.6 km,21,17,3,"1,033 m",6.2,7,,,,,,,,,right,2.4,1435,overhead wire,600,,,,,,yes,"18.60 km, 17 stations underground ('Schnellbahnen in Deutschland')"
+155,Hiroshima,Japan,Asia,Monorail,20 Aug 1994,18.4 km,22,22,1,876 m,18.4,22,"49,300","2,680",18 million,2005,2.04 million,1.2 %,9.0 mm,,left,,,,,yes,,,,,,According to Mr. Osamu Abe
+156,Mecca,Saudi Arabia,Asia,Metro,13 Nov 2010,18.1 km,9,9,1,"2,263 m",18.1,9,,,,,1.38 million,,13.1 mm,,right,,1435,third rail,1500,,,,yes,yes,yes,
+157,Kochi,India,Asia,Metro,17 Jun 2017,18.0 km,16,16,1,"1,200 m",18,16,"36,400","2,020",13.289 million,2017,,,,,left,,1435,third rail,750,,,,,yes,"yes, 3-car",Kochi Metro Rail Ltd via email
+158,Kryvyi Rih,Ukraine,Europe,Metrotram,26 Dec 1986,18.0 km,12,12,1,"1,636 m",18,12,,,,,,,,,,2.62,,,,,,,,,,
+159,Seville,Spain,Europe,Metro,2 Apr 2009,18.0 km,21,21,1,900 m,18,21,,,,,,,,,,2.6,,,,,,,Line 1,,,
+160,Charleroi,Belgium,Europe,Metro Leger,21 Jun 1976,17.5 km,23,23,4,921 m,4.4,5.8,,,,,,,,,,,,,,,,,,,,"total length 33,3 km, 12 underground stations, 23 full metro stations. Wiki"
+161,San Juan,Puerto Rico,America,Tren Urbano,6 Jun 2005,17.2 km,16,16,1,"1,147 m",17.2,16,"30,100","1,750",11 million,2011,2.69 million,0.6 %,6.4 mm,,,,,,,,,,,,,
+162,Novosibirsk,Russia,Asia,Metro,7 Jan 1986,16.4 km,13,12,2,"1,487 m",8.2,6.5,"208,000","12,700",76 million,2011,1.39 million,7.5 %,11.8 mm,,right,,1520,third rail,825,,,,,,,According to Mr. Yuri Popov
+163,Tama,Japan,Asia,Monorail,27 Nov 1998,16.0 km,19,19,1,889 m,16,19,,,,,,,,,left,,,,,,,,,,yes,
+164,Kazan,Russia,Europe,Metro,27 Aug 2005,15.8 km,10,10,1,"1,756 m",15.8,10,"74,000","4,680",27 million,2012,1.12 million,3.3 %,14.1 mm,,right,,,,,,,,,,,According to Mr. Yuri Popov
+165,Chiba,Japan,Asia,Monorail,28 Mar 1988,15.5 km,18,18,2,969 m,7.8,9,,,,,,,,,left,,,,,,,,,,,
+166,Duisburg,Germany,Europe,Stadtbahn,11 Jul 1992,14.3 km,13,13,2,"1,304 m",7.2,6.5,,,,,,,,,right,2.65,,,,,,,,,yes,Rhein-Ruhr Stadtbahn Album 1
+167,Lausanne,Switzerland,Europe,Metro,24 May 1991,13.7 km,29,28,2,507 m,6.8,14.5,,,,,,,,,,2.65,,,,line m2,line m2,2008,Line m2,,yes,"Only m2 is a full metro (27.10.2008: 5.9 km, 14 sta). Line m1: 3 underground stations"
+168,Panama City,Panama,America,Metro,5 Apr 2014,13.7 km,13,13,1,"1,142 m",13.7,13,,,,,,,,,,,,,,,,,,,,
+169,Adana,Turkey,Asia,Metro,18 Mar 2009,13.5 km,13,13,1,"1,125 m",13.5,13,,,,,1.29 million,,10.5 mm,,,,,,,,,,,,,
+170,Algiers,Algeria,Africa,Metro,1 Nov 2011,13.5 km,14,14,1,"1,038 m",13.5,14,,,,,3.35 million,,4.0 mm,,,,1435,third rail,750,,,,,yes,yes,
+171,Turin,Italy,Europe,Metropolitana,4 Feb 2006,13.4 km,21,21,1,670 m,13.4,21,"90,400","6,750",33 million,2011,1.65 million,2.7 %,8.1 mm,,right,2.08,,,,yes,VAL,2006,VAL,yes,yes,
+172,Wuppertal,Germany,Europe,Schwebebahn,1 Mar 1901,13.3 km,20,20,1,700 m,13.3,20,,,,,,,,,right,2.2,,overhead rail,600,,,,,,,
+173,Brescia,Italy,Europe,Metro,22 Dec 2012,13.1 km,17,17,1,819 m,13.1,17,,,,,,,,,,,,,,,metro,2012,,,,According to official website
+174,Duesseldorf,Germany,Europe,Stadtbahn,4 Oct 1981,13.0 km,20,19,2,721 m,6.5,10,,,,,,,,,right,2.65,1435,overhead wire,600,,,,,,yes,Rhein-Ruhr Stadtbahn Album 1
+175,Guiyang,China,Asia,Metro,28 Dec 2017,12.8 km,10,10,1,"1,422 m",12.8,10,,,,,,,,,,,,,,,,,,,,
+176,Naha,Japan,Asia,Monorail,10 Aug 2003,12.8 km,15,15,1,914 m,12.8,15,,,,,,,,,left,2.98,,,,,,,,,,
+177,Yekaterinburg,Russia,Asia,Metro,26 Apr 1991,12.7 km,9,9,1,"1,587 m",12.7,9,"104,000","8,200",38 million,2011,1.31 million,4.0 %,9.7 mm,,right,,,,,,,,,,,
+178,Yerevan,Armenia,Asia,Metro,7 Mar 1981,12.1 km,10,10,1,"1,344 m",12.1,10,"46,600","3,850",17 million,2011,1.1 million,2.1 %,11.0 mm,,right,2.7,,,,,,,,,,According to Mr. Yuri Popov
+179,Esfahan,Iran,Asia,Urban railway,15 Oct 2015,12.0 km,11,11,1,"1,200 m",12,11,,,,,1.63 million,,7.4 mm,,,,,,,,,,,,,
+180,Malaga,Spain,Europe,Metro,30 Jul 2014,12.0 km,17,16,2,800 m,6,8.5,,,,,,,,,,,,,,,,,,,,
+181,Samara,Russia,Europe,Metro,26 Dec 1987,11.6 km,10,10,1,"1,289 m",11.6,10,"43,800","3,780",16 million,2011,1.14 million,1.9 %,10.2 mm,,right,,1520,third rail,825,,,,,,,According to Mr. Yuri Popov
+182,Glasgow,United Kingdom,Europe,Subway,14 Dec 1896,10.4 km,15,15,1,743 m,10.4,15,"35,600","3,420",13 million,2011,1.16 million,1.5 %,9.0 mm,,left,2.34,1219,third rail,600,,,,,,,
+183,Almaty,Kazakhstan,Asia,Metro,1 Jan 2011,10.3 km,9,9,1,"1,293 m",10.3,9,"19,200","1,850",7 million,2012,1.21 million,0.8 %,8.5 mm,,,,,,,,,,,,,
+184,Jaipur,India,Asia,Metrorail,3 Jun 2015,9.6 km,9,9,1,"1,200 m",9.6,9,,,,,2.92 million,,3.3 mm,,,,,,,,,,,,,
+185,Muelheim,Germany,Europe,Stadtbahn,3 Nov 1979,9.0 km,13,12,2,819 m,4.5,6.5,,,,,,,,,right,2.65,1435,overhead wire,750,,,,,,,Rhein-Ruhr Stadtbahn Album 1
+186,Bonn,Germany,Europe,Stadtbahn,22 Mar 1975,9.0 km,12,12,1,818 m,9,12,,,,,,,,,right,2.65,1435,overhead wire,750,,,,,,,"9 km, 12 stations underground. Approx. 17 km metro-like"
+187,Rennes,France,Europe,Metro,16 Mar 2002,9.0 km,15,15,1,643 m,9,15,"129,000","14,300",47 million,2011,,,,,right,2.08,,,,yes,VAL,2002,VAL,,yes,
+188,Catania,Italy,Europe,Metropolitana,27 Jun 1999,8.8 km,9,9,1,"1,100 m",8.8,9,,,,,,,,,right,2.85,1435,overhead wire,3000,,,,,,,
+189,Kitakyushu,Japan,Asia,Monorail,9 Jan 1985,8.8 km,13,13,1,733 m,8.8,13,,,,,,,,,left,,,,,,,,,,yes,
+190,Lucknow,India,Asia,Metro,5 Sep 2017,8.4 km,8,8,1,"1,200 m",8.4,8,,,,,,,,,,,,,,,,,,,,Source: Metro Report.
+191,Buffalo,USA,America,Metro Rail,18 May 1985,8.4 km,8,8,1,"1,194 m",8.4,8,,,,,1.02 million,,8.2 mm,,right,,,,,,,,,,,Only tunnel section
+192,Palma de Mallorca,Spain,Europe,Metro,25 Apr 2007,8.3 km,9,9,1,"1,038 m",8.3,9,,,,,,,,,,2.55,1000,,1500,,,,,,,
+193,Valencia,Venezuela,America,Metro,18 Oct 2006,7.7 km,9,9,1,962 m,7.7,9,"57,500","7,470",21 million,2010,"810,000",3.6 %,9.5 mm,,,,,,,,,,,,,
+194,Antwerp,Belgium,Europe,Premetro,25 Mar 1975,7.6 km,11,11,2,844 m,3.8,5.5,,,,,,,,,,2.2,1000,overhead wire,600,,,,,,,
+195,Dnipro,Ukraine,Europe,Metro,29 Dec 1995,7.1 km,6,6,1,"1,420 m",7.1,6,"24,700","3,470",9 million,2010,,,,,,2.7,1520,third rail,825,,,,,,,According to Mr. Yuri Popov
+196,Genoa,Italy,Europe,Metropolitana,13 Jun 1990,7.1 km,8,8,1,"1,014 m",7.1,8,,,,,,,,,right,2.2,1435,overhead wire,750,,,,,,yes,metroitaliane.it
+197,Tabriz,Iran,Asia,Metro,28 Aug 2015,7.0 km,6,6,1,"1,400 m",7,6,,,,,,,,,,,,,,,,,,,,
+198,Jacksonville,USA,America,Skyway,30 May 1989,6.9 km,6,6,1,"1,380 m",6.9,6,,,,,"990,000",,7.0 mm,,right,2.56,2060,third rail,750,,downtown monorail people mover,1989,,,,
+199,Volgograd,Russia,Europe,Metro,5 Nov 1984,6.8 km,6,6,1,"1,360 m",6.8,6,,,,,"980,000",,6.9 mm,,,,,,,,,,,,,"Total system: 22 stations, 17,1 km"
+200,Kamakura,Japan,Asia,Monorail,3 Mar 1970,6.6 km,8,8,1,943 m,6.6,8,,,,,,,,,left,,,,,,,,,,,Shonan Monorail.
+201,Maracaibo,Venezuela,America,Metro,8 Jun 2009,6.5 km,6,6,1,"1,300 m",6.5,6,,,,,2.07 million,,3.1 mm,,,,,,,,,,,yes,,
+202,Las Vegas,USA,America,Monorail,15 Jul 2004,6.2 km,7,7,1,"1,033 m",6.2,7,,,,,1.82 million,,3.4 mm,,right,2.64,,,,,monorail,2004,yes,,,Hotels monorails not included
+203,Poznan,Poland,Europe,Fast Tram,1 Mar 1997,6.1 km,6,6,1,"1,220 m",6.1,6,,,,,,,,,,,,,,,,,,,,Rapid Tram
+204,Gelsenkirchen,Germany,Europe,Stadtbahn,1 Sep 1984,5.5 km,9,9,1,690 m,5.5,9,,,,,,,,,right,,1000,overhead wire,600,,,,,,,Rhein-Ruhr Stadtbahn Album 2
+205,Bielefeld,Germany,Europe,Stadtbahn,21 Sep 1971,5.2 km,7,7,4,"1,733 m",1.3,1.8,,,,,,,,,right,,,,,,,,,,,Full metro section length unknown. Only metro section included
+206,Detroit,USA,America,People Mover,Jul 1987,4.8 km,13,13,1,400 m,4.8,13,,,,,4.1 million,,1.2 mm,,right,2.5,1435,third rail,600,,"downtown people mover, LIM technology",1987,,yes,,
+207,Pittsburgh,USA,America,T,3 Jul 1985,4.8 km,6,6,1,960 m,4.8,6,,,,,1.84 million,,2.6 mm,,right,,,,,,,,,,,Full metro section length unknown (all lines: 40 km).2.90 is the length of the tunnel section.
+208,Ludwigshafen,Germany,Europe,Stadtbahn,29 May 1969,4.0 km,11,11,0,364 m,,,,,,,,,,,right,,,,,,,,,,,Full metro section length unknown.
+209,Perugia,Italy,Europe,Minimetro,29 Jan 2008,3.0 km,7,7,1,500 m,3,7,,,,,,,,,,,,,,,Minimetro,2008,,,,
+210,Newark,USA,America,Light Rail,26 May 1935,2.2 km,4,4,1,733 m,2.2,4,,,,,,,,,right,,,,,,,,,,,4 underground stations
+211,Rouen,France,Europe,Metro,17 Dec 1994,2.2 km,5,5,1,550 m,2.2,5,,,,,,,,,,,,,,,,,,,,5 underground stations
+212,Haifa,Israel,Asia,Carmelit,1959,1.8 km,6,6,1,350 m,1.8,6,,,,,1.01 million,,1.7 mm,,,2.4,,,,,,,,,,
